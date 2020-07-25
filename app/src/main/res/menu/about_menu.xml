@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="View GPA"
+        android:id="@+id/view_gpa_id"/>
+    <item
+        android:title="View CGPA"
+        android:id="@+id/view_cgpa_id"/>
+</menu>
